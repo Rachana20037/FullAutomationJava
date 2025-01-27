@@ -41,10 +41,6 @@ for (int i = 0; i < count; i++) {
 	System.out.println(option);
 	
 }
-
-
-
-
 Thread.sleep(5000);
 driver.close();
 }
